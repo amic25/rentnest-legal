@@ -1,0 +1,47 @@
+APP NAME (30 max)
+RentNest: Rent & Repairs
+
+SHORT DESCRIPTION (80 max)
+Track rent, expenses, repairs and leases for 1–20 rental units.
+
+FULL DESCRIPTION
+RentNest is the simple command center for landlords with 1 to 20 units. Track rent, log expenses, handle repairs and keep leases organized, all from your phone.
+
+TRACK RENT
+• Monthly rent charges generated for every tenant.
+• Record payments you receive by cash, check, bank transfer or Zelle in seconds.
+• A clear ledger and receipt for every tenant, and overdue alerts.
+
+SEE EVERYTHING AT A GLANCE
+• Rent collected vs. expected this month.
+• Overdue tenants, open repair requests and upcoming lease expirations.
+
+HANDLE REPAIRS
+• Tenants submit requests with photos.
+• Emergency keywords show a call-for-help banner right away.
+• Schedule, assign a vendor and log the cost, and it becomes an expense automatically.
+
+TRACK EXPENSES
+• Snap receipts and categorize spending per property.
+• Profit & loss per property and an export for your accountant.
+
+LEASES, DOCUMENTS AND INSPECTIONS
+• Private document storage per property, unit and tenant.
+• Room-by-room move-in and move-out inspections with photos and sign-off.
+• Notice templates (templates only, not legal advice).
+
+MESSAGING
+• Message each tenant in the app.
+
+Tenants use RentNest free. Landlords start free with one unit. RentNest Pro ($1.99/month, 7-day free trial for new subscribers) unlocks up to 20 units and Pro features. The subscription renews automatically unless cancelled at least 24 hours before the end of the period; manage it in Google Play.
+
+For adults 18+. Privacy: https://amic25.github.io/rentnest-legal/privacy/
+Terms: https://amic25.github.io/rentnest-legal/terms/
+
+URLS
+Privacy policy: https://amic25.github.io/rentnest-legal/privacy/
+Account deletion: https://amic25.github.io/rentnest-legal/delete-account/
+Website / support: https://amic25.github.io/rentnest-legal/support/
+Contact email: hello@theaiservice.com
+Category: Business
+
