@@ -33,7 +33,7 @@ LEASES, DOCUMENTS AND INSPECTIONS
 MESSAGING
 • Message each tenant in the app.
 
-Tenants use RentNest free. Landlords start free with one unit. RentNest Pro ($1.99/month, 7-day free trial for new subscribers) unlocks up to 20 units and Pro features. The subscription renews automatically unless cancelled at least 24 hours before the end of the period; manage it in Google Play.
+RentNest is free: tenants use it free, and landlords can manage up to 20 units at no cost.
 
 For adults 18+. Privacy: https://amic25.github.io/rentnest-legal/privacy/
 Terms: https://amic25.github.io/rentnest-legal/terms/
